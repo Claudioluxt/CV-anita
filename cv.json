@@ -1,0 +1,223 @@
+{
+  "basics": {
+    "name": "Anabella Aimara Luxen Espinoza",
+    "label": "Instructora de pilates",
+    "image": "/me.webp",
+    "email": "luxenespinoza@gmail.com",
+    "phone": "+5493795310020",
+    "url": "https://www.google.com/?hl=es",
+    "summary": "Soy instructora de pilates y lashista profesional con experiencia en atención al cliente y administración. Me especializo en pilates, lashista y tengo un historial comprobado de mis logros. Mi objetivo es conseguir un puesto en el que pueda aplicar mis habilidades y conocimientos, y estoy comprometida con alcanzar mis metas y las de la organización.",
+    "location": {
+      "address": "",
+      "postalCode": "3400",
+      "city": "Corrientes, Capital",
+      "countryCode": "ARG",
+      "region": "Argentina"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Anabella Luxen",
+        "url": "https://www.linkedin.com/in/anabella-aimara-luxen-espinoza-123967289"
+      },
+      {
+        "network": "X",
+        "username": "Anabella Luxen",
+        "url": "https://x.com/"
+      },
+      {
+        "network": "Instragam",
+        "username": "Anabella Luxen",
+        "url": "https://www.instagram.com/anabellaluxen/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Junko Pilates",
+      "position": "Instructora de Pilates",
+      "url": "https://www.instagram.com/junko_pilates_fitnes?igsh=Y29sNjR4YWRoemZj",
+      "startDate": "2024-03-01",
+      "endDate": null,
+      "summary": "En los estudios JUNKO Pilates - fitness y HEBE Estética - Pilates, experiencia en atención al cliente, administración. Mis responsabilidades es crear una clases o rutina adaptada para cada cliente, enseñanzas individuales o grupales, evaluación y seguimiento del crecimiento de los clientes, manteniendo un ambiente seguro y limpio.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Prefectura Naval Argentina",
+      "position": "Administración",
+      "url": "https://www.argentina.gob.ar/prefecturanaval",
+      "startDate": "2018-02-18",
+      "endDate": "2024-01-01",
+      "summary": "Proporcionar asistencia y orientación a ciudadanos en la administración pública nacional, asegurando un servicio eficiente y cortés. Gestión de la línea de emergencias náuticas, respondiendo a llamadas de emergencia y coordinando respuestas rápidas y efectivas. Soporte en el área de informática y comunicaciones, incluyendo la gestión de sistemas y redes. Operación del sistema de mensajería interna para la comunicación eficiente entre departamentos. Gestión de habilitaciones y renovaciones de carnets náuticos, asegurando el cumplimiento de los requisitos legales y administrativos.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "RapiPago",
+      "position": "Gestion de cobro y pago",
+      "startDate": "2011-03-01",
+      "endDate": "2016-05-01",
+      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],
+  "volunteer": [{
+    "organization": "Organization",
+    "position": "Volunteer",
+    "url": "https://organization.com/",
+    "startDate": "2012-01-01",
+    "endDate": "2013-01-01",
+    "summary": "Description…",
+    "highlights": [
+      "Awarded 'Volunteer of the Month'"
+    ]
+  }],
+  "education": [{
+    "institution": "Centro de Estudios en Cosmetología y Estética",
+    "url": "https://www.instagram.com/cececorrientesar?igsh=NDF4aWZleWgxa2Rv",
+    "area": "Instructora de HEBE PILATES Y YUNKO PILATES",
+    "studyType": "curso",
+    "startDate": "2024-01-01",
+    "endDate": "2025-01-01",
+    "score": "4.0",
+    "courses": [
+      ""
+    ]
+  },
+  {
+    "institution": "Instituto de formación Prefectura Naval Argentina",
+    "url": "https://www.argentina.gob.ar/prefecturanaval",
+    "area": "Suboficial de la Prefectura naval Argentina",
+    "studyType": "curso",
+    "startDate": "2018-01-01",
+    "endDate": "2019-01-01",
+    "score": "4.0",
+    "courses": [
+      ""
+    ]
+  }
+  ],
+  "awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "certificates": [{
+    "name": "Certificate",
+    "date": "2021-11-07",
+    "issuer": "Company",
+    "url": "https://certificate.com"
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "url": "https://publication.com",
+    "summary": "Description…"
+  }],
+  "skills": [
+    {
+      "name": "Word",
+      "level": "Intermedio",
+      "keywords": [
+        
+      ]
+    },
+    {
+      "name": "Excel",
+      "level": "Intermedio",
+      "keywords": [
+        
+      ]
+    }
+
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Basico"
+    }
+  ],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": [
+    {
+      "name": "",
+      "isActive": false,
+      "description": "",
+      "highlights": [
+        
+        ""
+      ],
+      "url": ""
+    },
+    {
+      "name": "",
+      "isActive": false,
+      "description": "",
+      "highlights": [
+        ""
+      ],
+      "url": ""
+    },
+    {
+      "name": "",
+      "isActive": false,
+      "description": "",
+      "highlights": [
+        
+        ""
+      ],
+      "url": ""
+    },
+    {
+      "name": "",
+      "isActive": false,
+      "description": "",
+      "highlights": [
+        ""
+      ],
+      "url": "",
+      "github": ""
+    },
+    {
+      "name": "",
+      "isActive": false,
+      "description": "",
+      "highlights": [
+       
+        ""
+      ],
+      "url": "",
+      "github": ""
+    },
+    {
+      "name": "",
+      "description": "",
+      "highlights": [
+        "",
+        ""
+      ],
+      "url": ""
+    }
+  ]
+}
